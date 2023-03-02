@@ -10,7 +10,7 @@ profepa <- read.csv(prof_url2)
 
 #acortar url
 prof_url <-"http://www.profepa.gob.mx/innovaportal/file/7635/1/accionesInspeccionfoanp.csv"
-prof_url2 <-paste0("http://www.profepa.gob.mx/innovaportal/", 
+prof_url <-paste0("http://www.profepa.gob.mx/innovaportal/", 
                    "file/7635/1/accionesInspeccionfoanp.csv")
 
 
