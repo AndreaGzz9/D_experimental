@@ -10,3 +10,4 @@ sd(vivero$IE)
 var(vivero$IE)
 
 mean(vivero$IE)
+
