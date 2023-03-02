@@ -57,14 +57,12 @@ boxplot(conjunto$Altura ~ conjunto$Especie ,
 #transferir datos
 head(conjunto)
 library(readr)
-file <- paste0("https://raw.githubusercontent.com/mgtagle/",
-                              "202_Analisis_Estadistico_2020/master/cuadro1.csv")
+file <- paste0("https://raw.githubusercontent.com/mgtagle/202_Analisis_Estadistico_2020/master/cuadro1.csv")
   inventario <- read_csv(file)
 
 
 #operaciones con la base de datos
-raw_url <-"https://raw.githubusercontent.com/AndreaGzz9/",
-"D_experimental/main/scripts/cuadro1.csv"
+raw_url <-"https://raw.githubusercontent.com/AndreaGzz9/D_experimental/main/scripts/cuadro1.csv"
 
 mean(inventario$Diametro)
 sum(inventario$Diametro < 10)
