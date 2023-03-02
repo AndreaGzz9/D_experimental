@@ -6,7 +6,7 @@
 
 #importar datos
 prof_url <- "http://www.profepa.gob.mx/innovaportal/file/7635/1/accionesInspeccionfoanp.csv"
-profepa <- read.csv(prof_url2)
+profepa <- read.csv(prof_url)
 
 #acortar url
 prof_url <-"http://www.profepa.gob.mx/innovaportal/file/7635/1/accionesInspeccionfoanp.csv"
