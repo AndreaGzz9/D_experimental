@@ -39,7 +39,7 @@ feeds <- table(conjuntos$ALTURA)
 feeds
 barplot(feeds)
 
-hist(H.media$Altura)
+hist(H.media$ALTURA)
 hist(H.16$ALTURA)
 
 #VECINOS
