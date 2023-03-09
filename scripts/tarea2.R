@@ -86,7 +86,4 @@ sd(DBH_16$DIAMETRO)
 mean(DBH_media$DIAMETRO)
 sd(DBH_media$DIAMETRO)
 
-
-
-
-
+rmarkdown::render("scripts/tarea2.R", "HTML")
