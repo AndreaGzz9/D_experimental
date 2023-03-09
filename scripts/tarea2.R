@@ -1,7 +1,7 @@
 #Andrea Gzz
 #02/03/23
 
-conjuntos <- read.csv("scripts/tarea2_excel.csv")
+conjuntos <- read.csv("scripts/tarea2_excel.csv",header = TRUE)
 
 
 #MEDIA DE ALTURA
