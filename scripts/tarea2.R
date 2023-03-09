@@ -1,7 +1,8 @@
 #Andrea Gzz
 #02/03/23
 
-conjuntos <- read.csv("scripts/tarea2_excel.csv", header = TRUE)
+conjuntos <- read.csv("scripts/tarea2_excel.csv")
+
 
 #MEDIA DE ALTURA
 mean(conjuntos$ALTURA)
@@ -85,7 +86,7 @@ sd(DBH_16$DIAMETRO)
 mean(DBH_media$DIAMETRO)
 sd(DBH_media$DIAMETRO)
 
-library(repmis)
-conjunto <- 
-source_data("https://www.dropbox.com/s/hmsf07bbayxv6m3/cuadro1.csv?dl=1")
-head(conjunto)
+
+
+
+
