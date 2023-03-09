@@ -5,3 +5,8 @@ Repositorio para almacenar **código** y tareas durante el semestre Enero-Junio2
 
 + 09/02/2023: CREACION DEL REPOSITORIO D_experimental y primer script.
 
+#Andrea gonzalez
+#01/03/23
+
+
+
