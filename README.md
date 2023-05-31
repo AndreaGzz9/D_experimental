@@ -21,14 +21,27 @@ Almacén y separacion de documentos semestre Enero-Junio 2K23
 
 ### Clase 2
 
+### Tarea 1
++ 22-02-2023: Primer contacto con R; analisis de desviación estandar y medias
 
+### Tarea 2
++ 02-03-2023: Importar datos, uso de boxplot y barplot para analisis
 
-+ 02-03-2023: Importar datos, uso de bboxplot y barplot para analisis
-+ 21-03-2023:
+### Tarea 3
++ 21-03-2023: Mediana y moda 
+
+### Clase 3
 + 11-05-2023:Pruebas de T; shapiro, dos muestras y barlett test
++ documento PLANTULAS
+
+### Clase 4
 + 17-05-2023:Prueba de barlett y fligner, bloques 
++ documento DIETAS
+
+### Clase 5
 + 30-05-2023:ANOVA y prueba Tuckey con boxplot
-+ 
++ documento Pregerminación
+
 
 
 
