@@ -50,3 +50,4 @@ Almacén y separacion de documentos semestre Enero-Junio 2K23
 
 
 
+![pia-img](https://github.com/AndreaGzz9/D_experimental/assets/124898102/a52a304f-07f9-4bc2-8062-e322cef3c57c)
