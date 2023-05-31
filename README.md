@@ -16,13 +16,19 @@ Almacén y separacion de documentos semestre Enero-Junio 2K23
 ### Diseño Experimental
  Desarrollo del curso Enero-Junio
 
-+ Clase 1: Creación de Github y repositorio diseño experimental
-+ clase 2: 
+### Clase 1
++ Creación de Github y repositorio diseño experimental
+
+### Clase 2
+
+
+
 + 02-03-2023: Importar datos, uso de bboxplot y barplot para analisis
 + 21-03-2023:
 + 11-05-2023:Pruebas de T; shapiro, dos muestras y barlett test
 + 17-05-2023:Prueba de barlett y fligner, bloques 
 + 30-05-2023:ANOVA y prueba Tuckey con boxplot
++ 
 
 
 
