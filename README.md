@@ -20,6 +20,7 @@ Almacén y separacion de documentos semestre Enero-Junio 2K23
 + clase 2: 
 + 02-03-2023: Importar datos, uso de bboxplot y barplot para analisis
 + 11-05-2023:Pruebas de T; shapiro, dos muestras y barlett test
++ 17-05-2023:Prueba de barlett y fligner, bloques 
 + 30-05-2023:ANOVA y prueba Tuckey con boxplot
 
 
