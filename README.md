@@ -18,6 +18,9 @@ Almacén y separacion de documentos semestre Enero-Junio 2K23
 
 + Clase 1: Creación de Github y repositorio diseño experimental
 + clase 2: 
++ 02-03-2023: Importar datos, uso de bboxplot y barplot para analisis
++ 11-05-2023:Pruebas de T; shapiro, dos muestras y barlett test
++ 30-05-2023:ANOVA y prueba Tuckey con boxplot
 
 
 
