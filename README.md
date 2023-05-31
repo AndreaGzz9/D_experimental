@@ -20,9 +20,10 @@ Almacén y separacion de documentos semestre Enero-Junio 2K23
 + Creación de Github y repositorio diseño experimental
 
 ### Clase 2
++Primer contacto con R
 
 ### Tarea 1
-+ 22-02-2023: Primer contacto con R; analisis de desviación estandar y medias
++ 22-02-2023:  analisis de desviación estandar y medias
 
 ### Tarea 2
 + 02-03-2023: Importar datos, uso de boxplot y barplot para analisis
